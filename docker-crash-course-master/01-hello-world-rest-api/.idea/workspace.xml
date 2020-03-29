@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0193559b-3653-421d-ad12-b26d18f2f606" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/HelloWorldController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <updated>1585019889099</updated>
       <workItem from="1585019893935" duration="842000" />
       <workItem from="1585366674377" duration="2525000" />
-      <workItem from="1585452193033" duration="1649000" />
+      <workItem from="1585452193033" duration="2768000" />
     </task>
     <servers />
   </component>
